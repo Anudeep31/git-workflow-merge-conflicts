@@ -35,3 +35,7 @@ git merge <branch>
 Merge ‹branch> into the current branch.
 git diff Show unstaged changes between your index and
 working directory.
+
+
+
+#adding some text to commit to see changes by the commit.:):):)
